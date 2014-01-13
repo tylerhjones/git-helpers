@@ -1,4 +1,4 @@
-## To be modified to store in .zshrc
+## Git-helpers personal additions
 
 ### Install
 
